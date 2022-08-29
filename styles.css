@@ -1,0 +1,28 @@
+/* styles.css */
+
+.page-title {
+  text-align: center;
+  color: #ff3399;
+  background-color: yellow;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.main-page-title.page-title {
+  font-size: 75px;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
+
+.recipes-list {
+  font-size: 25px;
+}
+
+*{
+  background-color: greenyellow;
+  color: blue;
+  font-family: Arial, Verdana, sans-serif;
+}
